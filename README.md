@@ -14,4 +14,4 @@ systems, but you'll need to create your own scripts to build and run.
  * Now it's time to run the tests with `runTest.sh`. Currently there are 4 tests and all should pass.
 
 ### Pull Requests Welcome
-See something that should be changed or improved? Feel free to fix it up and send a pull request. :)
+See something that should be changed or improved? Feel free to fix it up and send a pull request. :+1:
